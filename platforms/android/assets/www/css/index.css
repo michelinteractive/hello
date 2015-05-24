@@ -92,7 +92,22 @@ h1 {
     display:block;
 }
 
-.event.received {
+.event.deviceready{
+    background-color:#4B946A;
+    display:none;
+}
+
+.event.load {
+    background-color:#4B946A;
+    display:none;
+}
+
+.event.offline {
+    background-color:#4B946A;
+    display:none;
+}
+
+.event.online{
     background-color:#4B946A;
     display:none;
 }
